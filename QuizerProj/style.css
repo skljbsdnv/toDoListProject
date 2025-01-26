@@ -1,0 +1,16 @@
+body {
+    display: flex;
+}
+ 
+fieldset {
+    display: flex;
+    flex-direction: column;
+    width: 40%;
+    margin: auto;
+    height: 500px;
+}
+ 
+.timer {
+    border: 1px solid;
+    width: 10%;height: 50px;
+}

@@ -1,0 +1,98 @@
+{
+    "What is HTML?": {
+      "1": "HyperText Markup Language",
+      "2": "Hyperlink Text Marking Language",
+      "3": "Home Tool Markup Language",
+      "4": "High-Level Markup Language"
+    },
+    "What is the basic structure of an HTML document?": {
+      "1": "DOCTYPE, <html>, <head>, <body>",
+      "2": "<html>, <head>, <meta>, <body>",
+      "3": "<html>, <header>, <body>",
+      "4": "DOCTYPE, <html>, <meta>, <footer>"
+    },
+    "What does the <head> tag do in HTML?": {
+      "1": "Contains meta-information about the document",
+      "2": "Displays the main content of the page",
+      "3": "Links external files like CSS and JavaScript",
+      "4": "Represents the document's footer"
+    },
+    "What is the difference between the <div> and <span> tags?": {
+      "1": "<div> is block-level, <span> is inline",
+      "2": "<div> is inline, <span> is block-level",
+      "3": "<div> is used for forms, <span> for links",
+      "4": "<div> can contain <span>, but not vice versa"
+    },
+    "What is the purpose of the <a> tag in HTML?": {
+      "1": "Creates hyperlinks",
+      "2": "Embeds images",
+      "3": "Defines sections",
+      "4": "Represents a button"
+    },
+    "What is the <img> tag used for?": {
+      "1": "Embeds images",
+      "2": "Defines input fields",
+      "3": "Links to external resources",
+      "4": "Defines paragraphs"
+    },
+    "What is the difference between an ordered list and an unordered list?": {
+      "1": "Ordered list is numbered, unordered list uses bullets",
+      "2": "Ordered list uses bullets, unordered list is numbered",
+      "3": "Ordered list contains text only, unordered list contains images",
+      "4": "Ordered list uses <ul>, unordered list uses <ol>"
+    },
+    "What is the purpose of the <form> tag?": {
+      "1": "Collects user input",
+      "2": "Displays images",
+      "3": "Defines sections of a webpage",
+      "4": "Creates navigation links"
+    },
+    "What are HTML attributes?": {
+      "1": "Provide additional information about elements",
+      "2": "Define the structure of a webpage",
+      "3": "Specify the content of a webpage",
+      "4": "Represent multimedia files"
+    },
+    "What is the <table> tag used for?": {
+      "1": "Creates a table",
+      "2": "Defines paragraphs",
+      "3": "Embeds videos",
+      "4": "Links to external files"
+    },
+    "What does the <meta> tag do?": {
+      "1": "Provides metadata about the document",
+      "2": "Embeds images",
+      "3": "Defines a webpage's title",
+      "4": "Creates hyperlinks"
+    },
+    "What is semantic HTML?": {
+      "1": "Using HTML tags that convey meaning",
+      "2": "Using only <div> and <span> tags",
+      "3": "Using non-standard HTML tags",
+      "4": "Using external libraries like JavaScript"
+    },
+    "What is the <link> tag used for in HTML?": {
+      "1": "Links external resources like CSS files",
+      "2": "Defines navigation links",
+      "3": "Embeds images",
+      "4": "Represents an anchor tag"
+    },
+    "How do you add comments in HTML?": {
+      "1": "<!-- comment goes here -->",
+      "2": "// comment goes here",
+      "3": "# comment goes here",
+      "4": "/* comment goes here */"
+    },
+    "What is the difference between the <strong> and <em> tags?": {
+      "1": "<strong> indicates strong importance, <em> emphasizes text",
+      "2": "<strong> makes text italic, <em> makes it bold",
+      "3": "<strong> is for links, <em> is for headers",
+      "4": "<strong> is used in tables, <em> in forms"
+    },
+    "What is the <iframe> tag used for?": {
+      "1": "Embeds another HTML document or media",
+      "2": "Defines forms",
+      "3": "Creates tables",
+      "4": "Displays images"
+    }
+  }
