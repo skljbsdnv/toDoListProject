@@ -7,34 +7,35 @@
     <title>Quizer</title>
 </head>
 <body>
- 
-    <div class="timer">
- 
-    </div>
- 
+
+    <section class="left-section">
+        <div class = "timer"></div>
+
+        <div class="map"></div>
+
+    </section>
+
     <fieldset>
         <legend>Quiz</legend>
-        <div class="questions"></div>
-        <button>start</button>
-        <!-- <div>
-            <input onclick="storeAnswers(this)" type="radio" id="answer1" name="answers" >
-            <label id="label1" for="answer1" ></label>
+        
+        <div class="question">
+            <div class="question-title">
+                <!-- questionTitle -->
+            </div>
+            <div class="question-choices">
+                <!-- choices -->
+            </div>    
         </div>
-        <div>
-            <input onclick="storeAnswers(this)" type="radio" id="answer2" name="answers">
-            <label id="label2" for="answer2" ></label>
+
+        <div class="review">
+
         </div>
-        <div>
-            <input onclick="storeAnswers(this)" type="radio" id="answer1" name="answers" >
-            <label id="label1" for="answer1" ></label>
-        </div>
-        <div>
-            <input onclick="storeAnswers(this)" type="radio" id="answer1" name="answers" >
-            <label id="label1" for="answer1" ></label>
-        </div>
-        -->
+
+        <button class="start-button">start</button>
+        <button class="next-button">next</button>
+        <button class="finish-button">finish</button> 
     </fieldset>
-       
+        
     <script src = "script.js"></script>
 </body>
 </html>
