@@ -9,6 +9,7 @@ const feildSet = document.querySelector("fieldset");
 const questionDiv = document.querySelector(".question");
 const reviewDiv = document.querySelector(".review");
 const mapDiv = document.querySelector(".map");
+const signUpButton = document.querySelector(".sign-up");
 
 
 let questionIndex= 0;
@@ -21,6 +22,8 @@ let choiceIndex = 0;
 let choicesParentDiv;
 let seconds = 5;
 let countdownId;
+
+
 
 startButton.addEventListener("click", async () => {
     questions = Object.keys(await fetchQuestions());
@@ -231,5 +234,3 @@ function questionMap(e) {
     createReviewBtns()
     timer();
 }
-
-
